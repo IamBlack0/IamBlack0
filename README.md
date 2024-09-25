@@ -1,4 +1,5 @@
-# 🔒 IamBlack0's Striker Portfolio 🔒
+<h1 align="center">Hi , I'm IamBlack <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
 
 ![IamBlack](https://github.com/user-attachments/assets/af327fd6-aca3-4773-9f6d-3d21c5fca6b2?height=200&width=600)
 

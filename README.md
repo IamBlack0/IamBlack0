@@ -1,53 +1,24 @@
 <h1 align="center">Hi , I'm IamBlack <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
-![IamBlack](https://github.com/user-attachments/assets/af327fd6-aca3-4773-9f6d-3d21c5fca6b2?height=200&width=600)
+![Portfolio Banner](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IamBlack-iGIVct3Gof9ICEYFb5ub8QATGDU3yW.gif)
 
 
-## 👤 Perfil del Jugador
+# 💫 About Me:
+I am a software development student<br>👨‍💻 I am currently working on web development technologies like JavaScript.<br>📚 I am currently learning all about php and visual basic 😅.
 
-Nombre: IamBlack0
-Posición: Desarrollador Full-Stack en Formación
-Equipo Actual: Universidad Tecnológica de Panamá (UTP)
 
-## 🏆 Habilidades Técnicas
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruben-rivera-1238a8323) 
 
-- ☕ Java: ```████████░░ 80%```
-- 🌐 HTML: ```███████░░░ 70%```
-- 🎨 CSS:  ```██████░░░░ 60%```
-- 📜 JavaScript: ```███░░░░░░░ 30%``` (En progreso)
-- 🐘 PHP: ```██░░░░░░░░ 20%``` (Aprendiendo en UTP)
-- 🖥️ Visual Basic: ```██░░░░░░░░ 20%``` (Aprendiendo en UTP)
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IamBlack0&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IamBlack0&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IamBlack0&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏋️ Entrenamiento Actual
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=IamBlack0&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-Actualmente, estoy perfeccionando mis habilidades en:
-
-1. JavaScript - Para mejorar mis capacidades de desarrollo front-end y back-end.
-2. PHP - Aprendiendo en la UTP para desarrollo web del lado del servidor.
-3. Visual Basic - Explorando en la UTP para aplicaciones de escritorio.
-
-## 🥅 Objetivos
-
-1. Dominar JavaScript y sus frameworks modernos.
-2. Crear proyectos full-stack utilizando PHP y bases de datos.
-3. Desarrollar aplicaciones de escritorio eficientes con Visual Basic.
-4. Contribuir a proyectos de código abierto para ganar experiencia en el mundo real.
-
-## 📊 Estadísticas de GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IamBlack0&show_icons=true&theme=radical)
-
-## 📫 Cómo contactarme
-
-- GitHub: [@IamBlack0](https://github.com/IamBlack0)
-- Email: [tu-email@example.com](mailto:tu-email@example.com)
-- LinkedIn: [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil/)
-
-## 💼 Proyectos Destacados
-
-Próximamente...
-
----
-
-\\*"En el mundo del desarrollo, como en Blue Lock, solo los más dedicados y apasionados llegan a la cima. ¡Sigue codificando y mejorando!"\\*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,6 +1,6 @@
 # 🔒 IamBlack0's Striker Portfolio 🔒
 
-![IamBlack](https://github.com/user-attachments/assets/af327fd6-aca3-4773-9f6d-3d21c5fca6b2)
+![IamBlack](https://github.com/user-attachments/assets/af327fd6-aca3-4773-9f6d-3d21c5fca6b2?height=200&width=600)
 
 
 ## 👤 Perfil del Jugador

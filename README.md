@@ -1,6 +1,7 @@
 # 🔒 IamBlack0's Striker Portfolio 🔒
 
-![Blue Lock Inspired Banner](/placeholder.svg?height=200&width=600)
+![IamBlack](https://github.com/user-attachments/assets/af327fd6-aca3-4773-9f6d-3d21c5fca6b2)
+
 
 ## 👤 Perfil del Jugador
 
